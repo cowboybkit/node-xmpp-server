@@ -1,0 +1,25 @@
+{
+    "name": "chat-xmpp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app",
+        "test": "mocha -R spec"
+    },
+    "dependencies": {
+        "faye-websocket": "*",
+        "ltx": "*",
+    	"mocha":"*",
+    	"node-expat": "*",
+        "node-stringprep":"git+https://github.com/nghitran/node-stringprep.git",
+        "request": "*",
+        "browserify": ">= 1.10.4",
+        "blueimp-md5": "*",
+        "redis":"*",
+        "jsconfig":"*",
+        "winston":"*",
+        "websocket":"*",
+        "should":"*",
+    }
+}
+
