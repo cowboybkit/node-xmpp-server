@@ -19,7 +19,7 @@
         "jsconfig":"*",
         "winston":"*",
         "websocket":"*",
-        "should":"*",
+        "should":"*"
     }
 }
 
